@@ -5,6 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\

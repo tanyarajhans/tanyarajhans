@@ -1,6 +1,6 @@
 # Hi, I'm Tanya 👋🏾 👩🏾‍💻
 
-![name](https://user-images.githubusercontent.com/61904667/108187786-d7efff00-7134-11eb-8103-ab371034a0ed.jpg)
+![name](https://user-images.githubusercontent.com/61904667/108188099-31f0c480-7135-11eb-9178-15b50c3e4529.jpg)
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -10,7 +10,7 @@
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, and Algorithms.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at tanyarajhans7@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at tanyarajhans7@gmail.com! I'll try to respond as soon as I can.
 
 
 

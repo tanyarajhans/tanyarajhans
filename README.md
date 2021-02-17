@@ -3,7 +3,7 @@
 ![name](https://user-images.githubusercontent.com/61904667/108188099-31f0c480-7135-11eb-9178-15b50c3e4529.jpg)
 
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

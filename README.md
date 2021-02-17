@@ -1,6 +1,6 @@
 # Hi, I'm Tanya 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
 I'm a Sophomore at NIT Agartala who is passionate about Data Structures and Algorithms, Competitive Programming, and Open Source. Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.
 
 

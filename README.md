@@ -1,5 +1,8 @@
 # Hi, I'm Tanya 👋🏾 👩🏾‍💻
 
+![name](https://user-images.githubusercontent.com/61904667/108187786-d7efff00-7134-11eb-8103-ab371034a0ed.jpg)
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 

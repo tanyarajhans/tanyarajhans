@@ -10,7 +10,6 @@
 🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, and Algorithms.\
-💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at tanyarajhans7@gmail.com! I'll try to respond as soon as I can.
 
 

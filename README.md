@@ -1,5 +1,9 @@
 # Hi, I'm Tanya 👋🏾 👩🏾‍💻
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/tanyarajhans7?label=Follow)](https://twitter.com/intent/follow?screen_name=tanyarajhans7)
+[![Linkedin: Tanya](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyarajhans/)](https://www.linkedin.com/in/tanyarajhans/)
+![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
+
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/61904667/108189690-0a026080-7137-11eb-99cd-d2d1a6a77cdc.jpg)
 
 

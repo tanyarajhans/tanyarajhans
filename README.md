@@ -4,7 +4,7 @@
 [![Linkedin: Tanya](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyarajhans/)](https://www.linkedin.com/in/tanyarajhans/)
 ![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner ](https://user-images.githubusercontent.com/61904667/146428951-457197e8-5a69-4d17-b350-1301956c462b.png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
 
 
 ## 👨🏻‍💻 &nbsp;About Me

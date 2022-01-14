@@ -23,3 +23,6 @@
 - Struggling on <a href="https://www.leetcode.com/tanyarajhans7/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/tanyarajhans7/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/tanyarajhans/">LinkedIn</a> 😇
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.gif)
